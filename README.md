@@ -1,2 +1,2 @@
 # softwarica
-This is text setud
+This is text setup
